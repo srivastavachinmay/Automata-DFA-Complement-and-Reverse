@@ -1,0 +1,4 @@
+automata==0.1.4
+automata_lib==5.0.0
+Flask==2.0.2
+visual_automata==1.1.1
